@@ -1,0 +1,13 @@
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\usm\parallel computing\code\c#\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
